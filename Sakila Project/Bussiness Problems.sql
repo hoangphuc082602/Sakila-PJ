@@ -1,0 +1,15 @@
+-- 1. Count the Number of each rating
+-- 2. Find the Most Common Rating for Movies
+-- 3. Count the number of movies rented each month in a Specific Year (e.g., 2005)
+-- 4. Find TOP 5 most rented movies of 2005.
+-- 5. Identify all the movies that are longer than 120 minutes
+-- 6. Find all the customer that live in London
+-- 7. List the movie titles and category names of each movie.
+-- 8. List of movie titles and number of copies available in stores
+-- 9. Total revenue per customer
+-- 10. List of actors involved in movies in the category "Horror"
+-- 11. Calculate the average length of movies by rating
+-- 12. Find movies that have never been rented before
+-- 13. Find all movies that are longer than the average length of all movies.
+-- 14. Displays the customer's name, the title of the movie they rented, and the rental date
+-- 15. List customers who rented a movie for the first time within 7 days of signing up
